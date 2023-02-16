@@ -1,7 +1,6 @@
 
 
 body {
-   
     background-color: #FFFFED;
 }
 
@@ -11,7 +10,7 @@ h2 {
     text-align: center;
     color:#000000
 
-} 
+}
 .nav-h1 {
     color: #0000ff;
     font-family: "Open Sans Bold", Roboto;
@@ -31,7 +30,6 @@ h2 {
     font-size: 30px;
     color: #000000;
     font-weight: bold;
-    
 }
 
 .navbar li {
@@ -109,10 +107,8 @@ main {
 }
 
 
-    
-
 @media screen and (min-width: 780px) {
-    main { 
+    main {
         grid-template-columns: 45% 45%;
         justify-content: auto;
 
