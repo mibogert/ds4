@@ -1,0 +1,37 @@
+/* *, header, footer, body {
+    background-color: #FFFFED;
+
+}
+
+body {
+    font-family: "Open Sans Bold", Roboto;
+}
+
+h1 {
+    
+} */
+
+
+
+
+/* Add and style back to top button with proper linkage */
+/* .top {
+
+} */
+main div{
+    border: 2px solid blue;
+}
+
+main { 
+    display:grid;
+    grid-template-columns: 80%;
+    border: 2px solid black;
+}
+
+@media screen and (min-width: 780px) {
+    main { 
+        grid-template-columns: 45% 45%;
+        justify-content: ;
+
+    }
+}
